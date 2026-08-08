@@ -28,4 +28,8 @@
 <loc>https://cayaunited.org/ground-zero/05-generating-grid</loc>
 <priority>0.7</priority>
 </url>
+<url>
+<loc>https://cayaunited.org/ground-zero/06-arrays-and-loops</loc>
+<priority>0.7</priority>
+</url>
 </urlset>
